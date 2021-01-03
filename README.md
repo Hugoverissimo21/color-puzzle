@@ -4,4 +4,4 @@ This is my first, "hard", project using html.
 
 Host - https://pt.000webhost.com/
 
-URL - htt
+URL - https://color-puzzle.000webhostapp.com/
