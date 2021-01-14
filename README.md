@@ -1,6 +1,6 @@
 # color-puzzle
 
-This is my first, "hard", project using html.
+This puzzle was an test to embed a MintMe miner.
 
 Host - https://pt.000webhost.com/
 
